@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "monsterplus:crystal_shard"
+        },
+        {
+            "item": "minecraft:deepslate"
+        }
+    ],
+    "result": {
+        "id": "monsterplus:crystal_clump",
+        "count": 4
+    },
+    "category": "equipment"
+}

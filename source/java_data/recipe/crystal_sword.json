@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " # ",
+        "B  "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:ancient_crystal"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "id": "monsterplus:crystal_sword",
+        "count": 1
+    },
+    "category": "equipment"
+}

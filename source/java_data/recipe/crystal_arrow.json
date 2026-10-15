@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " B ",
+        "F  "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:crystal_shard"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "id": "monsterplus:crystal_arrow",
+        "count": 4
+    },
+    "category": "equipment"
+}

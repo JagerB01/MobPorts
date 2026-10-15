@@ -1,0 +1,128 @@
+[
+  {
+    "id": "glow_skeleton",
+    "geometry": "GlowSkeletonModel",
+    "cubes": 8,
+    "health": 24.0,
+    "scale": 1
+  },
+  {
+    "id": "lava_squid",
+    "geometry": "LavaSquidModel",
+    "cubes": 9,
+    "health": 16.0,
+    "scale": 1
+  },
+  {
+    "id": "mother_lava_squid",
+    "geometry": "MotherLavaSquidModel",
+    "cubes": 9,
+    "health": 36.0,
+    "scale": 6
+  },
+  {
+    "id": "spectral_skeleton",
+    "geometry": "SpectralSkeletonModel",
+    "cubes": 7,
+    "health": 12.0,
+    "scale": 1
+  },
+  {
+    "id": "opalescent_eye",
+    "geometry": "EyeModel",
+    "cubes": 1,
+    "health": 8.0,
+    "scale": 1
+  },
+  {
+    "id": "abyssologer",
+    "geometry": "AbyssologerModel",
+    "cubes": 12,
+    "health": 30.0,
+    "scale": 1
+  },
+  {
+    "id": "swamp_zombie",
+    "geometry": "SwampZombieModel",
+    "cubes": 7,
+    "health": 24.0,
+    "scale": 1
+  },
+  {
+    "id": "crystal_zombie",
+    "geometry": "CrystalZombieModel",
+    "cubes": 118,
+    "health": 36.0,
+    "scale": 1
+  },
+  {
+    "id": "overgrown_skeleton",
+    "geometry": "OvergrownSkeletonModel",
+    "cubes": 27,
+    "health": 22.0,
+    "scale": 1
+  },
+  {
+    "id": "demon_eye",
+    "geometry": "DemonEyeModel",
+    "cubes": 6,
+    "health": 12.0,
+    "scale": 1
+  },
+  {
+    "id": "ender_eye",
+    "geometry": "DemonEyeModel",
+    "cubes": 6,
+    "health": 24.0,
+    "scale": 1
+  },
+  {
+    "id": "ancient_hero",
+    "geometry": "AncientHeroModel",
+    "cubes": 16,
+    "health": 100.0,
+    "scale": 1.1
+  },
+  {
+    "id": "ancient_hero_skull",
+    "geometry": "AncientHeroSkullModel",
+    "cubes": 2,
+    "health": 24.0,
+    "scale": 1.1
+  },
+  {
+    "id": "wisp",
+    "geometry": "WispModel",
+    "cubes": 9,
+    "health": 8.0,
+    "scale": 0.4
+  },
+  {
+    "id": "soul",
+    "geometry": "WispModel",
+    "cubes": 9,
+    "health": 12.0,
+    "scale": 0.4
+  },
+  {
+    "id": "desert_sorceress",
+    "geometry": "DesertSorceressModel",
+    "cubes": 15,
+    "health": 36.0,
+    "scale": 1
+  },
+  {
+    "id": "spectral_skull",
+    "geometry": "FlyingSkullModel",
+    "cubes": 2,
+    "health": 20.0,
+    "scale": 1
+  },
+  {
+    "id": "desert_acolyte",
+    "geometry": "DesertAcolyteModel",
+    "cubes": 11,
+    "health": 20.0,
+    "scale": 1
+  }
+]

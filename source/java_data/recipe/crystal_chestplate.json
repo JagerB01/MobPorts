@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:ancient_crystal"
+        }
+    },
+    "result": {
+        "id": "monsterplus:crystal_chestplate",
+        "count": 1
+    },
+    "category": "equipment"
+}

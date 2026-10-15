@@ -1,0 +1,21 @@
+{
+    "parent": "monsterplus:item/scroll",
+    "neoforge_data": {
+        "layers": {
+            "0": {
+                "block_light": 10,
+                "sky_light": 10
+            },
+            "1": {
+                "block_light": 15,
+                "sky_light": 15
+            }
+        }
+    },
+    "loader": "neoforge:item_layers",
+    "render_types": {},
+	"textures": {
+    		"layer0": "monsterplus:item/scroll/fire_scroll",
+            "layer1": "monsterplus:item/scroll/fire_scroll_flame"
+    		}
+}

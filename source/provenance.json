@@ -1,0 +1,9 @@
+{
+  "file": "MonsterPlus-Neoforge1.21.1-v1.2.0.0.jar",
+  "sha256": "89d24a9581549600a0a77b248bb428e42b8f75441c2673eb0b78849285bbea1c",
+  "embedded_version": "1.1.9.0",
+  "filename_version": "1.2.0.0",
+  "author": "Nitespring",
+  "license": "All rights reserved",
+  "recovery": "CFR 0.152; numeric model and attribute recovery; vanilla inherited models explicitly reconstructed"
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#A#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:ancient_scroll"
+        },
+        "A": {
+            "item": "monsterplus:spectral_essence"
+        }
+    },
+    "result": {
+        "id": "monsterplus:enchanted_scroll",
+        "count": 4
+    }
+}

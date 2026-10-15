@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A#A",
+        "#B#",
+        "A#A"
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:dark_essence"
+        },
+        "A": {
+            "item": "monsterplus:spectral_essence"
+        },
+        "B": {
+            "item": "monsterplus:ancient_crystal"
+        }
+    },
+    "result": {
+        "id": "monsterplus:dark_gem",
+        "count": 1
+    }
+}

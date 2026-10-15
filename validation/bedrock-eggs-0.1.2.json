@@ -1,0 +1,119 @@
+{
+  "engine": "1.26.52.3",
+  "passed": 18,
+  "total": 18,
+  "results": [
+    {
+      "id": "glow_skeleton",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "lava_squid",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "mother_lava_squid",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "spectral_skeleton",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "opalescent_eye",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "abyssologer",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "swamp_zombie",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "crystal_zombie",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "overgrown_skeleton",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "demon_eye",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "ender_eye",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "ancient_hero",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "ancient_hero_skull",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "wisp",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "soul",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "desert_sorceress",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "spectral_skull",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    },
+    {
+      "id": "desert_acolyte",
+      "itemRegistered": true,
+      "eggConsumed": true,
+      "mobSpawned": true
+    }
+  ],
+  "archive": "MonsterPlus-Bedrock-0.1.2.mcaddon",
+  "sha256": "ed249ed33f5d83043f7ab6bdc94a483505dc8200ed7826b36f5382135698fb1c",
+  "nativeContentErrors": 0,
+  "method": "Each real egg placed in a powered native dispenser; entitySpawn observed; item consumption checked."
+}

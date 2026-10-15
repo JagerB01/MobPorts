@@ -1,0 +1,16 @@
+{
+    "parent": "neoforge:item/default",
+    "loader": "neoforge:item_layers",
+    "textures": {
+        "layer0": "monsterplus:item/crystal_clump_base",
+        "layer1": "monsterplus:item/crystal_clump_emissive"
+    },
+    "neoforge_data": {
+        "layers": {
+            "1": {
+                "block_light": 15,
+                "sky_light": 15
+            }
+        }
+    }
+}

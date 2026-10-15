@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#B#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:soulflame_powder"
+        },
+        "B": {
+            "item": "minecraft:coal"
+        }
+    },
+    "result": {
+        "id": "minecraft:blaze_powder",
+        "count": 2
+    }
+}

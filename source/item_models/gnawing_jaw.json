@@ -1,0 +1,38 @@
+{
+    "parent": "neoforge:item/default",
+    "neoforge_data": {
+        "layers": {
+            "0": {
+                "block_light": 15,
+                "sky_light": 15
+            }
+        }
+    },
+    "loader": "neoforge:item_layers",
+    "render_types": {},
+	"textures": {
+    		"layer0": "monsterplus:item/gnawing_jaw"
+    		},
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 8.4, -0.6 ],
+            "scale": [ 1.40, 1.40, 0.65 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 8.4, 0.0 ],
+            "scale": [ 1.40, 1.40, 0.65 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 35 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 1.0, 1.0, 0.45 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 1.0, 1.0, 0.45 ]
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AB ",
+        "BAB",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "monsterplus:enchanted_scroll"
+        },
+        "B": {
+            "item": "monsterplus:crystal_shard"
+        }
+    },
+    "result": {
+        "id": "monsterplus:dark_scroll_crystal_circle",
+        "count": 4
+    },
+    "category": "equipment"
+}

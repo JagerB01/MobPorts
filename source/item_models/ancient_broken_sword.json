@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "monsterplus:item/ancient_broken_sword"
+  }
+}

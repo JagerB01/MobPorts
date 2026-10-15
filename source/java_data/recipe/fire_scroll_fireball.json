@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BC",
+        "AB",
+        " A"
+    ],
+    "key": {
+        "A": {
+            "item": "monsterplus:enchanted_scroll"
+        },
+        "B": {
+            "item": "minecraft:fire_charge"
+        },
+        "C": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "id": "monsterplus:fire_scroll_fireball",
+        "count": 2
+    },
+    "category": "equipment"
+}

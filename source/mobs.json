@@ -1,0 +1,307 @@
+[
+  {
+    "id": "glow_skeleton",
+    "java_class": "GlowSkeleton",
+    "model": "GlowSkeletonModel",
+    "name": "Glow Skeleton",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MAX_HEALTH": 24.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 2.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 1.0,
+      "KNOCKBACK_RESISTANCE": 0.7,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "lava_squid",
+    "java_class": "LavaSquid",
+    "model": "LavaSquidModel",
+    "name": "Lava Squid",
+    "width": 0.8,
+    "height": 0.8,
+    "attributes": {
+      "MAX_HEALTH": 16.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 2.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 50.0,
+      "FALL_DAMAGE_MULTIPLIER": 0.0
+    }
+  },
+  {
+    "id": "mother_lava_squid",
+    "java_class": "MotherLavaSquid",
+    "model": "MotherLavaSquidModel",
+    "name": "Mother Lava Squid",
+    "width": 5.2,
+    "height": 3.6,
+    "attributes": {
+      "MAX_HEALTH": 36.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 5.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 2.0,
+      "KNOCKBACK_RESISTANCE": 0.5,
+      "FOLLOW_RANGE": 40.0,
+      "FALL_DAMAGE_MULTIPLIER": 0.0
+    }
+  },
+  {
+    "id": "spectral_skeleton",
+    "java_class": "SpectralSkeleton",
+    "model": "SpectralSkeletonModel",
+    "name": "Spectral Minion",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MAX_HEALTH": 12.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 3.0,
+      "ATTACK_SPEED": 1.0,
+      "ATTACK_KNOCKBACK": 0.7,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "opalescent_eye",
+    "java_class": "Eye",
+    "model": "EyeModel",
+    "name": "Opalescent Eye",
+    "width": 0.5,
+    "height": 0.5,
+    "attributes": {
+      "MAX_HEALTH": 8.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 3.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "abyssologer",
+    "java_class": "Abyssologer",
+    "model": "AbyssologerModel",
+    "name": "Hermit Abysswalker",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MOVEMENT_SPEED": 0.5,
+      "MAX_HEALTH": 30.0,
+      "FOLLOW_RANGE": 24.0
+    }
+  },
+  {
+    "id": "swamp_zombie",
+    "java_class": "SwampZombie",
+    "model": "SwampZombieModel",
+    "name": "Swamp Monster",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MAX_HEALTH": 24.0,
+      "MOVEMENT_SPEED": 0.18,
+      "ATTACK_DAMAGE": 2.0,
+      "ATTACK_SPEED": 1.0,
+      "ATTACK_KNOCKBACK": 1.2,
+      "KNOCKBACK_RESISTANCE": 0.8,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "crystal_zombie",
+    "java_class": "CrystalZombie",
+    "model": "CrystalZombieModel",
+    "name": "Crystalian",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MAX_HEALTH": 36.0,
+      "MOVEMENT_SPEED": 0.05,
+      "ATTACK_DAMAGE": 5.0,
+      "ATTACK_SPEED": 1.0,
+      "ATTACK_KNOCKBACK": 1.5,
+      "KNOCKBACK_RESISTANCE": 2.0,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "overgrown_skeleton",
+    "java_class": "OvergrownSkeleton",
+    "model": "OvergrownSkeletonModel",
+    "name": "Overgrown Skeleton",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MAX_HEALTH": 22.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 1.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 1.0,
+      "KNOCKBACK_RESISTANCE": 0.3,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "demon_eye",
+    "java_class": "DemonEye",
+    "model": "DemonEyeModel",
+    "name": "Demon Eye",
+    "width": 0.75,
+    "height": 0.75,
+    "attributes": {
+      "MAX_HEALTH": 12.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 4.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "ender_eye",
+    "java_class": "EnderEye",
+    "model": "DemonEyeModel",
+    "name": "Ender Watcher",
+    "width": 0.75,
+    "height": 0.75,
+    "attributes": {
+      "MAX_HEALTH": 24.0,
+      "MOVEMENT_SPEED": 0.3,
+      "ATTACK_DAMAGE": 8.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.25,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 15.0
+    }
+  },
+  {
+    "id": "ancient_hero",
+    "java_class": "AncientHero",
+    "model": "AncientHeroModel",
+    "name": "Corrupted Ancient Hero",
+    "width": 0.6,
+    "height": 2.0,
+    "attributes": {
+      "MAX_HEALTH": 100.0,
+      "MOVEMENT_SPEED": 0.27,
+      "ATTACK_DAMAGE": 8.0,
+      "ATTACK_SPEED": 1.0,
+      "ATTACK_KNOCKBACK": 0.7,
+      "KNOCKBACK_RESISTANCE": 0.6,
+      "ARMOR": 12.0,
+      "ARMOR_TOUGHNESS": 4.0,
+      "FOLLOW_RANGE": 50.0,
+      "STEP_HEIGHT": 2.0,
+      "FALL_DAMAGE_MULTIPLIER": 0.1,
+      "GRAVITY": 0.4,
+      "MOVEMENT_EFFICIENCY": 1.0,
+      "WATER_MOVEMENT_EFFICIENCY": 1.0
+    }
+  },
+  {
+    "id": "ancient_hero_skull",
+    "java_class": "AncientHeroSkull",
+    "model": "AncientHeroSkullModel",
+    "name": "Corrupted Ancient Hero",
+    "width": 0.6,
+    "height": 0.6,
+    "attributes": {
+      "MAX_HEALTH": 24.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 6.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.25,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 50.0
+    }
+  },
+  {
+    "id": "wisp",
+    "java_class": "Wisp",
+    "model": "WispModel",
+    "name": "Wisp",
+    "width": 0.75,
+    "height": 0.6,
+    "attributes": {
+      "MAX_HEALTH": 8.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 2.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0,
+      "FALL_DAMAGE_MULTIPLIER": 0.0
+    }
+  },
+  {
+    "id": "soul",
+    "java_class": "Soul",
+    "model": "WispModel",
+    "name": "Soul",
+    "width": 0.75,
+    "height": 0.6,
+    "attributes": {
+      "MAX_HEALTH": 12.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 3.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0,
+      "FALL_DAMAGE_MULTIPLIER": 0.0
+    }
+  },
+  {
+    "id": "desert_sorceress",
+    "java_class": "DesertSorceress",
+    "model": "DesertSorceressModel",
+    "name": "Desert Sorceress",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MOVEMENT_SPEED": 0.5,
+      "MAX_HEALTH": 36.0,
+      "FOLLOW_RANGE": 24.0
+    }
+  },
+  {
+    "id": "spectral_skull",
+    "java_class": "FlyingSkull",
+    "model": "FlyingSkullModel",
+    "name": "Spectral Skull",
+    "width": 0.6,
+    "height": 0.6,
+    "attributes": {
+      "MAX_HEALTH": 20.0,
+      "MOVEMENT_SPEED": 0.25,
+      "ATTACK_DAMAGE": 5.0,
+      "ATTACK_SPEED": 1.2,
+      "ATTACK_KNOCKBACK": 0.2,
+      "KNOCKBACK_RESISTANCE": 0.0,
+      "FOLLOW_RANGE": 30.0
+    }
+  },
+  {
+    "id": "desert_acolyte",
+    "java_class": "DesertAcolyte",
+    "model": "DesertAcolyteModel",
+    "name": "Desert Acolyte",
+    "width": 0.6,
+    "height": 1.99,
+    "attributes": {
+      "MOVEMENT_SPEED": 0.5,
+      "MAX_HEALTH": 20.0,
+      "FOLLOW_RANGE": 24.0
+    }
+  }
+]

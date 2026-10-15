@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AB ",
+        "ABB",
+        "AA "
+    ],
+    "key": {
+        "A": {
+            "item": "monsterplus:enchanted_scroll"
+        },
+        "B": {
+            "item": "monsterplus:soulflame_powder"
+        }
+    },
+    "result": {
+        "id": "monsterplus:soul_scroll_flame",
+        "count": 4
+    },
+    "category": "equipment"
+}

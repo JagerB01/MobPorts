@@ -1,0 +1,13 @@
+node_modules/
+dist/
+__pycache__/
+.npm-cache/
+# Generated pack contents; edit source/ and tools/build.py instead.
+packs/MonsterPlus_RP/
+packs/MonsterPlus_BP/entities/
+packs/MonsterPlus_BP/items/
+packs/MonsterPlus_BP/spawn_rules/
+packs/MonsterPlus_BP/loot_tables/
+packs/MonsterPlus_BP/manifest.json
+packs/MonsterPlus_BP/scripts/data.js
+packs/MonsterPlus_BP/functions/

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A#",
+        "A#A",
+        "BA "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:dark_gem"
+        },
+        "A": {
+            "item": "monsterplus:crystal_shard"
+        },
+        "B": {
+            "item": "monsterplus:ancient_broken_sword"
+        }
+    },
+    "result": {
+        "id": "monsterplus:darkstar",
+        "count": 1
+    },
+    "category": "equipment"
+}

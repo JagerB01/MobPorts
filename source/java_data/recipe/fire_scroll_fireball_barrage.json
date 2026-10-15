@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AB",
+        "AB",
+        "AA"
+    ],
+    "key": {
+        "A": {
+            "item": "monsterplus:enchanted_scroll"
+        },
+        "B": {
+            "item": "minecraft:fire_charge"
+        }
+    },
+    "result": {
+        "id": "monsterplus:fire_scroll_fireball_barrage",
+        "count": 4
+    },
+    "category": "equipment"
+}

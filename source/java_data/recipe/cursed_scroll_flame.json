@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AB ",
+        "ABB",
+        "AA "
+    ],
+    "key": {
+        "A": {
+            "item": "monsterplus:enchanted_scroll"
+        },
+        "B": {
+            "item": "monsterplus:curseflame_powder"
+        }
+    },
+    "result": {
+        "id": "monsterplus:cursed_scroll_flame",
+        "count": 4
+    }
+}

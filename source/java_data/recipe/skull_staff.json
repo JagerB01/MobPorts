@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#A#",
+        "B# "
+    ],
+    "key": {
+        "#": {
+            "item": "monsterplus:spectral_essence"
+        },
+        "A": {
+            "item": "minecraft:skeleton_skull"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "id": "monsterplus:skull_staff",
+        "count": 1
+    },
+    "category": "equipment"
+}
